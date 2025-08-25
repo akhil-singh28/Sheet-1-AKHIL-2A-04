@@ -15,4 +15,4 @@ elif day_num == 6:
 elif day_num == 7:
     print("Saturday")
 else:
-    print("Invalid input! Please enter a number from 1 to 7.")
+    print("Invalid input: Please enter (1 to 7)")
